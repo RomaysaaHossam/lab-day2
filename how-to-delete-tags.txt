@@ -1,0 +1,8 @@
+how to delete tags locally
+git tag -d v1.0
+git tag --delete v1.0
+
+
+how to delete tags remotely
+git push origin -d v1.0
+git push origin --delete v1.0
